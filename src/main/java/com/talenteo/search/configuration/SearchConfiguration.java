@@ -1,4 +1,4 @@
-package com.demo.aws.elasticsearch.data.configuration;
+package com.talenteo.search.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

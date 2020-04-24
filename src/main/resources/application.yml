@@ -1,0 +1,11 @@
+server:
+  port: 8095
+
+spring:
+  main:
+    allow-bean-definition-overriding: true
+
+elasticsearch:
+      cluster-name: talenteo
+      cluster-nodes: localhost:9200
+    

@@ -1,4 +1,4 @@
-package com.demo.aws.elasticsearch.data;
+package com.talenteo.search;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
